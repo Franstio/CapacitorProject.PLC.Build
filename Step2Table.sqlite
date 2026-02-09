@@ -1,0 +1,18 @@
+﻿CREATE TABLE IF NOT EXISTS transactions (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    badgeno TEXT,
+    logindate TEXT,
+    stationname TEXT,
+    frombinname TEXT,
+    tobinname TEXT,
+    weight REAL NOT NULL DEFAULT 0,
+    activity TEXT,
+    result TEXT
+);
+CREATE TABLE IF NOT EXISTS weightrecords (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    binname TEXT,
+    weight REAL NOT NULL DEFAULT 0,
+    weightdate TEXT,
+    result TEXT
+);
