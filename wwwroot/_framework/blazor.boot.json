@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Bin.Client",
   "resources": {
-    "hash": "sha256-xM81XyJVZ/ynk5tCHsEinnC5MkyN2QvD+8NKY8fc/d4=",
+    "hash": "sha256-ka4PoLrAwrNTkqFwo99tfgUW2A4lw5KNat0wJLrgR+0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-NljIbpK/1KCj0+knpX8U77Rbl5kTtfFIuFjK7AuczEw="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Bin.Client.wasm": "sha256-6sQXGpGgrkhtctU2243AJXPhDOprqnqBZqhxncSv2ok=",
+      "Bin.Client.wasm": "sha256-xNACk9jOqZmm4o043pEbJP1COagPhvQBwqDewIEZJc0=",
       "Bin.Core.wasm": "sha256-weg9wvK+2hmIzwdAy6JiNseGJCFhUUdEAcl2OPaOg6A=",
       "Blazor-ApexCharts.wasm": "sha256-jxtFNFwhlIzGfVEtCFIN3JjveG8hxWUgdCZ8Eg4WU1M=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-wpMjRgbCfKSGPOj3y+Md5dMidriCDprJhxwHzVcrsB4=",
