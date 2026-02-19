@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Bin.Client",
   "resources": {
-    "hash": "sha256-ka4PoLrAwrNTkqFwo99tfgUW2A4lw5KNat0wJLrgR+0=",
+    "hash": "sha256-ZE46M0wIhlHJ3iC6YCN/Jsg+pYBciWESgjIOICW9cSg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-NljIbpK/1KCj0+knpX8U77Rbl5kTtfFIuFjK7AuczEw="
     },
@@ -18,11 +18,11 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Bin.Client.wasm": "sha256-xNACk9jOqZmm4o043pEbJP1COagPhvQBwqDewIEZJc0=",
+      "Bin.Client.wasm": "sha256-mnxOT5pqRq2Qka8HwtA4Y/HdahW0pwLmsFVA7HTXXa8=",
       "Bin.Core.wasm": "sha256-weg9wvK+2hmIzwdAy6JiNseGJCFhUUdEAcl2OPaOg6A=",
       "Blazor-ApexCharts.wasm": "sha256-jxtFNFwhlIzGfVEtCFIN3JjveG8hxWUgdCZ8Eg4WU1M=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-wpMjRgbCfKSGPOj3y+Md5dMidriCDprJhxwHzVcrsB4=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-IjS0lJ8Sckj6nfmhDLZ79HsOrcGvZRkxUbNvLw8KJZo=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-GWYMCQYIb89aADkUISpXEmXaY0DLPGHjaNzrNTi0sP0=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-dy1u6UyeIT/SImJ4HAWzCWhUJFcYfKqis8lycZjZZVo=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-n5gPfAzch4RJI52CxNx1s44vVcRb7NjokAe6oJNV8ow=",
       "Microsoft.AspNetCore.Connections.Abstractions.wasm": "sha256-E6Gy16mIzKv/T6+P8xKD2LoyBPHdYsM/gqM0xaWUBpw=",
       "Microsoft.AspNetCore.Http.Connections.Client.wasm": "sha256-ry5ztYLw9ExrJOusv5LNpfRgOQr2mdBB6uM3mPjcc7w=",
@@ -64,7 +64,7 @@
       "System.Net.Security.wasm": "sha256-yQkKqGl93ePlwdMKJhdlgxEsKqrVPmD19NjzUw3YTVI=",
       "System.Net.WebSockets.Client.wasm": "sha256-XXUVj6OWp7gzgFb5ZMyHjsaM5IblpiLsi0dsBQaYeKk=",
       "System.Net.WebSockets.wasm": "sha256-bgUG816y3KxCC0U+8T6CW4mDXOEj3laP/7p1BNaDXek=",
-      "System.Private.CoreLib.wasm": "sha256-uKw8R3ZnnfSPQvhK6EoTLgX/vMlSduNXQ4MLr/cAuOc=",
+      "System.Private.CoreLib.wasm": "sha256-05oFmFH6P6NRUz/Q5aiioOqybW5YpjMmGxEfB80nfFQ=",
       "System.Private.Uri.wasm": "sha256-9t6sLA13tGcRgiKf13OwTDeEInMxHJe4mH6erFoaUsA=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-b46SNvqfZjUyda4RXosvD4Dw3YsAAIcqGEkGxg3zCYQ=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-5TSwTOLbPIjwJEH0Bvqt2I1J6YDfzMFydqa8JSY2CpE=",
